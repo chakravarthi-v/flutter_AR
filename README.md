@@ -1,4 +1,4 @@
-# ar
+# AR
 
 A new Flutter application.
 
